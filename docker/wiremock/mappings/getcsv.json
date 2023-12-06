@@ -1,0 +1,13 @@
+{
+    "request": {
+        "method": "GET",
+        "url": "/test/csv"
+    },
+    "response": {
+        "status": 200,
+        "bodyFileName": "sample.zip",
+        "headers": {
+            "Content-Type": "application/zip"
+        }
+    }
+}
