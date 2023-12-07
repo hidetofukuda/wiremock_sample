@@ -5,11 +5,10 @@
 
 ## 前提
 
-docker,docker-composeのインストールができていること。
+docker、docker-composeのインストールができていること。
 curlコマンドがインストール(macなら多分大丈夫)
 
 ## 使用方法
-
 cd docker
 docker compose -f compose.yml up
 
